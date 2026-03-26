@@ -24,8 +24,7 @@ The BHDD dataset can be accessed here:
 The dataset used in this project is not redistributed here.  
 Please refer to the original repository for access and licensing details.
 
-Originally, the BHDD repository was licensed under LGPL-3.0.  
-However, as of 23 March 2026, the repository license has been updated to a dual-license format:
+For nearly eight years, the BHDD repository was licensed under LGPL-3.0. However, as of 23 March 2026, the licensing was updated to a dual-license format:  
 - Dataset: CC BY-SA 4.0  
 - Code: LGPL-3.0  
 
