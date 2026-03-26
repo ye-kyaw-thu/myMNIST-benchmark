@@ -8,6 +8,7 @@ The BHDD dataset can be accessed here:
 
 ## Citation Information of BHDD
 
+```
 @dataset{bhdd_repo,
   author    = {Swan Htet Aung and Hein Htet and Htoo Say Wah Khaing and Thuya Myo Nyunt and {Expa.AI Research Team}},
   title     = {{BHDD}: Burmese Handwritten Digit Dataset},
@@ -16,6 +17,7 @@ The BHDD dataset can be accessed here:
   url       = {https://github.com/baseresearch/BHDD},
   note      = {Dataset: CC BY-SA 4.0, Code: LGPL-3.0}
 }
+```
 
 ## License Note
 
