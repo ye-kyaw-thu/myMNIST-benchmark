@@ -6,6 +6,7 @@ This work is based on our paper:
 
 > **myMNIST: Benchmark of PETNN, KAN, and Classical Deep Learning Models for Burmese Handwritten Digit Recognition**  
 > Presented at ICNLP 2026 (preprint available on arXiv)
+> [Preprint Paper:https://arxiv.org/pdf/2603.18597](https://arxiv.org/pdf/2603.18597)
 
 ---
 
